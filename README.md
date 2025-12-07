@@ -16,6 +16,7 @@ The tool performs:
 👨‍💻 Interactive GUI with logs, plots, and daily result navigation
 
 🗂 Project Structure
+
 HEX20-CubeSat-Nightly-AI-Telemetry-Tool/
 │
 ├── gui_tk.py                 # Tkinter dashboard GUI
@@ -27,6 +28,7 @@ HEX20-CubeSat-Nightly-AI-Telemetry-Tool/
 ├── results/                   # Daily JSON analysis reports
 │
 └── README.md                  # Documentation
+
 Installation
 1. Clone Repository
 git clone https://github.com/<your-username>/HEX20-CubeSat-Nightly-AI-Telemetry-Tool.git
@@ -101,6 +103,7 @@ Log viewer
 ⏰ Scheduler
 
 A custom time-based scheduler (Python-only) runs nightly tests without relying on external libraries, ensuring compatibility with Python 3.13.
+
 🧩 Future Enhancements
 
 Integrate with actual onboard telemetry sources
