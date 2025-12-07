@@ -1,0 +1,14 @@
+{
+  "date": "2025-12-06",
+  "source_file": "telemetry\\telemetry_20251206.bin",
+  "telemetry": {
+    "battery_voltage": 8.302727169676148,
+    "battery_current": 1.180108071072675,
+    "temperature": -2.141726521572388,
+    "cpu_usage": 89.6950571223129,
+    "attitude_error": 3.5160050480415554
+  },
+  "is_anomaly": true,
+  "ai_score": -0.0911851148325229,
+  "rule_alerts": []
+}
